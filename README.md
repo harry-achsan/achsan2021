@@ -1,5 +1,5 @@
 # achsan2021
-Dataset for Keyword Extraction consists of 3233 scientific articles and its keywords in the domain of computer sciences.
+Dataset for Keyword Extraction consists of 3233 recent scientific articles and its keywords in the domain of computer sciences.
 It has two folders: docsutf8 (the articles) and keys (the corresponding keywords).<br/><br/>
 <i>Format for the articles:<br/><br/></i>
 [TITLE]<br/>
